@@ -1,0 +1,19 @@
+textarea {
+    min-height: 400px;
+}
+
+.mail {
+    border: 1px solid black;
+    padding: 4px;
+    margin: 4px;
+}
+
+.mail:hover {
+    background-color: whitesmoke;
+    cursor: pointer;
+}
+
+.timestamp {
+    float: right;
+    color: gray;
+}
