@@ -2,7 +2,7 @@
 
 ## Description:
 
-**Mail** is a Django-based web application that allows users to share and interact with short messages, much like Twitter.
+**Mail** is a Django-based web application that allows users to send and receive mail, reply to them & archive them.
 
 ## Setup:
 
